@@ -14,7 +14,7 @@ Non-Personal Information: The App may collect non-personal information, such as 
 
 3. AdMob by Google
 
-Mental Timetable may use AdMob by Google to serve advertisements. AdMob may collect and process user data to provide personalized ads. For more information on how Google uses and protects your data, please review Google's Privacy Policy: [Admob] (https://support.google.com/admob/answer/6128543?hl=en)
+Mental Timetable may use AdMob by Google to serve advertisements. AdMob may collect and process user data to provide personalized ads. For more information on how Google uses and protects your data, please review Google's Privacy Policy: [Admob](https://support.google.com/admob/answer/6128543?hl=en)
 
 4. User Consent
 
